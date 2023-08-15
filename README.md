@@ -1,0 +1,2 @@
+# CONSOLE_GPT
+**ChatGPT Console Application**: Interact with the power of AI-driven conversations using this console application powered by ChatGPT. Engage in natural language discussions, seek information, brainstorm ideas, and get assistance across a wide range of topics. Whether you're looking for creative inspiration or factual answers, this application leverages state-of-the-art AI to provide human-like text generation. Experience the future of conversation technology through this user-friendly console application
